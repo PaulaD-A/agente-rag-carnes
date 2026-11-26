@@ -1,0 +1,64 @@
+numero_pedido,email_cliente,fecha_pedido,fecha_entrega,estado,kilos,monto_mercaderia,monto_flete,observacion
+P-10152,administracion@barlaspalmas.cl,2026-11-02,2026-11-03,Entregado,23,253500,4500,
+P-10153,compras@sushigrillnunoa.cl,2026-11-02,2026-11-04,Entregado,48,476500,8900,Porcionado lomo liso
+P-10156,compras@restobarlaesquina.cl,2026-11-03,2026-11-04,Entregado,30,344200,6500,
+P-10159,administracion@barlaspalmas.cl,2026-11-03,2026-11-04,Entregado,15,155500,0,Retira en bodega
+P-10161,compras@restobarlaesquina.cl,2026-11-04,2026-11-05,Entregado,51,518300,6500,
+P-10164,pedidos@casinoconstructoraandessur.cl,2026-11-04,2026-11-06,Entregado,168,1235600,0,Incluye 2 cajas de pechuga
+P-10166,administracion@barlaspalmas.cl,2026-11-04,2026-11-05,Entregado,64,716900,4500,
+P-10169,compras@sushigrillnunoa.cl,2026-11-04,2026-11-05,Entregado,59,599500,8900,
+P-10171,chef@hostalmatucana.cl,2026-11-04,2026-11-05,Entregado,39,484000,4500,
+P-10174,administracion@distribuidoradecarnesmatias.cl,2026-11-05,2026-11-09,Entregado,64,589900,8900,
+P-10176,administracion@distribuidoradecarnesmatias.cl,2026-11-05,2026-11-06,Entregado,114,1065700,8900,
+P-10178,administracion@distribuidoradecarnesmatias.cl,2026-11-05,2026-11-06,Entregado,155,1301800,0,Despacho gratis por volumen
+P-10179,pedidos@minimarketdonpepe.cl,2026-11-05,2026-11-09,Entregado,89,664500,8900,
+P-10180,administracion@hotelplazabellavista.cl,2026-11-05,2026-11-06,Entregado,59,681500,4500,
+P-10182,administracion@cocineriadonarosa.cl,2026-11-06,2026-11-10,Entregado,40,381900,0,Retira en bodega
+P-10183,contacto@carniceriaelnovillo.cl,2026-11-06,2026-11-09,Entregado,125,1133600,6500,Factura a nombre de sociedad relacionada
+P-10184,contacto@carniceriaelnovillo.cl,2026-11-09,2026-11-10,Entregado,60,522400,6500,
+P-10185,administracion@barlaspalmas.cl,2026-11-09,2026-11-10,Entregado,26,283400,4500,
+P-10186,chef@hostalmatucana.cl,2026-11-10,2026-11-11,Entregado,35,422300,4500,Porcionado lomo liso
+P-10189,pedidos@minimarketdonpepe.cl,2026-11-10,2026-11-11,Entregado,79,545800,11900,Primera entrega del día
+P-10190,administracion@sangucherialoscopihues.cl,2026-11-11,2026-11-12,Entregado,57,635600,4500,
+P-10193,administracion@casinoelroble.cl,2026-11-11,2026-11-12,Entregado,103,780900,11900,Porcionado lomo liso
+P-10195,compras@sushigrillnunoa.cl,2026-11-11,2026-11-12,Entregado,29,308500,0,Retira en bodega
+P-10197,contacto@minimarketlasrosas.cl,2026-11-11,2026-11-13,Entregado,76,546900,0,Retira en bodega
+P-10198,administracion@hotelplazabellavista.cl,2026-11-11,2026-11-12,Entregado,35,405900,4500,Incluye 2 cajas de pechuga
+P-10201,administracion@asadoselquincho.cl,2026-11-12,2026-11-16,Anulado,41,456900,8900,Incluye 2 cajas de pechuga
+P-10204,cocina@almacendonaines.cl,2026-11-12,2026-11-13,Entregado,29,215000,7500,Primera entrega del día
+P-10206,pedidos@casinoconstructoraandessur.cl,2026-11-12,2026-11-13,Entregado,157,1006100,0,Despacho gratis por volumen
+P-10208,administracion@hotelplazabellavista.cl,2026-11-13,2026-11-16,Entregado,40,487200,4500,
+P-10209,administracion@asadoselquincho.cl,2026-11-13,2026-11-16,Entregado,61,667100,8900,
+P-10210,contacto@carniceriaelnovillo.cl,2026-11-16,2026-11-17,Anulado,158,1307300,0,Despacho gratis por volumen
+P-10213,administracion@aparthotellosleones.cl,2026-11-16,2026-11-17,Entregado,15,171700,8900,
+P-10214,contacto@fuentealemanadelbarrio.cl,2026-11-16,2026-11-17,Entregado,40,410900,8900,
+P-10215,administracion@sangucherialoscopihues.cl,2026-11-17,2026-11-19,Entregado,40,396600,4500,Porcionado lomo liso
+P-10218,contacto@carniceriaelnovillo.cl,2026-11-17,2026-11-18,Entregado,74,623200,6500,
+P-10221,administracion@barlaspalmas.cl,2026-11-17,2026-11-18,Entregado,54,526500,4500,
+P-10223,pedidos@casinoconstructoraandessur.cl,2026-11-18,2026-11-19,Entregado,116,747900,6500,
+P-10225,contacto@carniceriaelnovillo.cl,2026-11-18,2026-11-20,Entregado,56,512800,6500,Factura a nombre de sociedad relacionada
+P-10227,compras@serviciosdealimentacionpehuen.cl,2026-11-18,2026-11-20,Entregado,259,1783600,0,Retira en bodega
+P-10229,administracion@casinoelroble.cl,2026-11-19,2026-11-23,Entregado,240,1534400,0,Retira en bodega
+P-10230,cocina@restaurantlavegachica.cl,2026-11-19,2026-11-23,Entregado,60,666300,4500,
+P-10232,contacto@fuentealemanadelbarrio.cl,2026-11-19,2026-11-20,Entregado,54,564000,8900,Incluye 2 cajas de pechuga
+P-10234,cocina@almacendonaines.cl,2026-11-20,2026-11-23,Entregado,77,575600,4500,Incluye 2 cajas de pechuga
+P-10236,administracion@cocineriadonarosa.cl,2026-11-20,2026-11-23,Entregado,37,377800,8900,
+P-10237,administracion@casinoelroble.cl,2026-11-20,2026-11-24,Entregado,254,1911500,11900,Incluye 2 cajas de pechuga
+P-10239,administracion@hotelplazabellavista.cl,2026-11-23,2026-11-24,Entregado,36,376200,4500,
+P-10240,administracion@sangucherialoscopihues.cl,2026-11-23,2026-11-25,Entregado,22,218100,4500,
+P-10242,administracion@cocineriadonarosa.cl,2026-11-23,2026-11-24,Entregado,32,348800,8900,Porcionado lomo liso
+P-10243,pedidos@minimarketdonpepe.cl,2026-11-23,2026-11-24,Entregado,38,267000,0,Retira en bodega
+P-10245,compras@restobarlaesquina.cl,2026-11-25,2026-11-26,En despacho,35,377200,6500,
+P-10246,administracion@casinoelroble.cl,2026-11-24,2026-11-25,Entregado,142,972900,11900,
+P-10247,chef@hostalmatucana.cl,2026-11-24,2026-11-25,Entregado,52,572400,4500,
+P-10248,administracion@sangucherialoscopihues.cl,2026-11-25,2026-11-27,Confirmado,70,687300,4500,
+P-10250,administracion@hotelplazabellavista.cl,2026-11-25,2026-11-27,Confirmado,33,409900,4500,Incluye 2 cajas de pechuga
+P-10253,administracion@casinoelroble.cl,2026-11-25,2026-11-26,En despacho,223,1618500,11900,Factura a nombre de sociedad relacionada
+P-10254,administracion@asadoselquincho.cl,2026-11-25,2026-11-26,En despacho,58,627000,8900,Porcionado lomo liso
+P-10255,administracion@distribuidoradecarnesmatias.cl,2026-11-25,2026-11-26,En despacho,82,691800,0,Retira en bodega
+P-10258,chef@hostalmatucana.cl,2026-11-26,2026-11-27,En preparación,34,430100,4500,
+P-10260,cocina@almacendonaines.cl,2026-11-26,2026-11-27,En preparación,33,233500,4500,Pago contado pendiente
+P-10263,cocina@almacendonaines.cl,2026-11-27,2026-11-30,Confirmado,87,657000,4500,Pago contado pendiente
+P-10266,contacto@carniceriaelnovillo.cl,2026-11-27,2026-11-30,Confirmado,78,649400,6500,Pago contado pendiente
+P-10269,cocina@minimarketelsol.cl,2026-11-27,2026-12-01,Confirmado,73,541000,11900,Primera entrega del día
+P-10272,pedidos@parrilladonlucho.cl,2026-11-27,2026-11-30,Confirmado,50,576100,0,Retira en bodega

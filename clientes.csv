@@ -1,0 +1,26 @@
+email,rut,razon_social,tipo_cliente,comuna,estado_credito,cupo_credito,ejecutivo,email_ejecutivo
+compras@restobarlaesquina.cl,76.543.210-3,Restobar La Esquina SpA,Restaurante,Providencia,Vigente,1500000,Camila Rojas,ventas@carneslosandes.cl
+pedidos@minimarketdonpepe.cl,77.120.334-5,Minimarket Don Pepe Ltda.,Minimarket,Maipú,Contado,0,Jorge Muñoz,ventas@carneslosandes.cl
+administracion@casinoelroble.cl,76.889.002-1,Casino Industrial El Roble SpA,Casino,Quilicura,Vigente,4000000,Jorge Muñoz,ventas@carneslosandes.cl
+contacto@carniceriasanjose.cl,12.345.678-5,Carnicería San José (José Pérez),Carnicería,Puente Alto,Bloqueado,800000,Jorge Muñoz,ventas@carneslosandes.cl
+chef@hostalmatucana.cl,76.002.441-4,Hostal Matucana EIRL,Hotel,Santiago Centro,Vigente,600000,Camila Rojas,ventas@carneslosandes.cl
+cocina@picadaelhuaso.cl,76.860.362-6,Picada El Huaso EIRL,Restaurante,La Florida,Bloqueado,500000,Jorge Muñoz,ventas@carneslosandes.cl
+administracion@sangucherialoscopihues.cl,76.983.512-1,Sanguchería Los Copihues SpA,Restaurante,Santiago Centro,Vigente,500000,Camila Rojas,ventas@carneslosandes.cl
+pedidos@parrilladonlucho.cl,77.567.628-0,Parrilla Don Lucho EIRL,Restaurante,Pudahuel,Vigente,1000000,Jorge Muñoz,ventas@carneslosandes.cl
+cocina@restaurantlavegachica.cl,77.114.097-1,Restaurant La Vega Chica Ltda.,Restaurante,Independencia,Contado,0,Camila Rojas,ventas@carneslosandes.cl
+contacto@fuentealemanadelbarrio.cl,76.662.284-4,Fuente Alemana del Barrio SpA,Restaurante,Conchalí,Contado,0,Jorge Muñoz,ventas@carneslosandes.cl
+administracion@cocineriadonarosa.cl,77.316.969-1,Cocinería Doña Rosa Ltda.,Restaurante,Conchalí,Contado,0,Jorge Muñoz,ventas@carneslosandes.cl
+administracion@barlaspalmas.cl,76.240.645-4,Bar Las Palmas SpA,Restaurante,Santiago Centro,Contado,0,Camila Rojas,ventas@carneslosandes.cl
+compras@sushigrillnunoa.cl,76.900.828-4,Sushi & Grill Ñuñoa SpA,Restaurante,Maipú,Contado,0,Jorge Muñoz,ventas@carneslosandes.cl
+administracion@asadoselquincho.cl,77.937.762-8,Asados El Quincho SpA,Restaurante,Maipú,Contado,0,Jorge Muñoz,ventas@carneslosandes.cl
+contacto@minimarketlasrosas.cl,76.747.034-7,Minimarket Las Rosas EIRL,Minimarket,Renca,Vigente,500000,Jorge Muñoz,ventas@carneslosandes.cl
+cocina@almacendonaines.cl,77.363.707-5,Almacén Doña Inés Ltda.,Minimarket,Recoleta,Contado,0,Camila Rojas,ventas@carneslosandes.cl
+cocina@minimarketelsol.cl,77.804.315-7,Minimarket El Sol SpA,Minimarket,Pudahuel,Vigente,1500000,Jorge Muñoz,ventas@carneslosandes.cl
+administracion@botilleriayalmacensantarita.cl,76.291.320-8,Botillería y Almacén Santa Rita Ltda.,Minimarket,San Miguel,Contado,0,Camila Rojas,ventas@carneslosandes.cl
+contacto@carniceriaelnovillo.cl,77.659.569-1,Carnicería El Novillo Ltda.,Carnicería,Pedro Aguirre Cerda,Contado,0,Camila Rojas,ventas@carneslosandes.cl
+cocina@carnicerialapampa.cl,77.590.789-4,Carnicería La Pampa Ltda.,Carnicería,Las Condes,Vigente,500000,Jorge Muñoz,ventas@carneslosandes.cl
+administracion@distribuidoradecarnesmatias.cl,77.754.888-3,Distribuidora de Carnes Matías Ltda.,Carnicería,Vitacura,Vigente,1000000,Jorge Muñoz,ventas@carneslosandes.cl
+pedidos@casinoconstructoraandessur.cl,76.509.881-5,Casino Constructora Andes Sur S.A.,Casino,San Miguel,Vigente,3000000,Camila Rojas,ventas@carneslosandes.cl
+compras@serviciosdealimentacionpehuen.cl,76.831.233-8,Servicios de Alimentación Pehuén SpA,Casino,Independencia,Vigente,3000000,Camila Rojas,ventas@carneslosandes.cl
+administracion@hotelplazabellavista.cl,76.327.112-9,Hotel Plaza Bellavista S.A.,Hotel,Independencia,Vigente,2000000,Camila Rojas,ventas@carneslosandes.cl
+administracion@aparthotellosleones.cl,77.336.323-4,Apart Hotel Los Leones S.A.,Hotel,Vitacura,Vigente,1000000,Jorge Muñoz,ventas@carneslosandes.cl
