@@ -773,7 +773,7 @@
         "toolDescription": "Busca un pedido por su número (formato P-12345) y devuelve estado, fechas, kilos, montos y email del cliente dueño del pedido.",
         "documentId": {
           "__rl": true,
-          "value": "REEMPLAZAR_ID_GOOGLE_SHEET",
+          "value": "1lBGpkOEQd1Ysz3IxJ_SN7QlHby-DJeZQDs5_Qhfj4Lw",
           "mode": "id"
         },
         "sheetName": {
@@ -1334,26 +1334,6 @@
       }
     },
     {
-      "parameters": {
-        "modelName": "=models/gemini-2.5-flash",
-        "options": {}
-      },
-      "type": "@n8n/n8n-nodes-langchain.lmChatGoogleGemini",
-      "typeVersion": 1.2,
-      "position": [
-        1568,
-        864
-      ],
-      "id": "2486a064-3082-40db-8f42-a545e9cf0d5d",
-      "name": "Modelo Gemini (gemini-2.5-flash)",
-      "credentials": {
-        "googlePalmApi": {
-          "id": "Vmrt9s6yim1bLqfv",
-          "name": "Google Gemini(PaLM) Api account"
-        }
-      }
-    },
-    {
       "parameters": {},
       "type": "@n8n/n8n-nodes-langchain.embeddingsGoogleGemini",
       "typeVersion": 1,
@@ -1380,6 +1360,26 @@
       ],
       "id": "df5152bb-4488-4fe4-95a6-271ae53d736d",
       "name": "Embeddings Gemini (indexar)",
+      "credentials": {
+        "googlePalmApi": {
+          "id": "Vmrt9s6yim1bLqfv",
+          "name": "Google Gemini(PaLM) Api account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "modelName": "models/gemini-3.5-flash",
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatGoogleGemini",
+      "typeVersion": 1.2,
+      "position": [
+        1568,
+        864
+      ],
+      "id": "2486a064-3082-40db-8f42-a545e9cf0d5d",
+      "name": "Modelo Gemini (gemini-3.5-flash)",
       "credentials": {
         "googlePalmApi": {
           "id": "Vmrt9s6yim1bLqfv",
@@ -1707,17 +1707,6 @@
         ]
       ]
     },
-    "Modelo Gemini (gemini-2.5-flash)": {
-      "ai_languageModel": [
-        [
-          {
-            "node": "Agente de atención",
-            "type": "ai_languageModel",
-            "index": 0
-          }
-        ]
-      ]
-    },
     "Embeddings Gemini (consulta)": {
       "ai_embedding": [
         [
@@ -1739,6 +1728,17 @@
           }
         ]
       ]
+    },
+    "Modelo Gemini (gemini-3.5-flash)": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Agente de atención",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
     }
   },
   "active": false,
@@ -1746,7 +1746,7 @@
     "executionOrder": "v1",
     "binaryMode": "separate"
   },
-  "versionId": "16977f34-594b-4c6a-bdc4-6d88d9fc145a",
+  "versionId": "87fd5b0a-48a8-4b5b-acfa-ce51b7ff6a1e",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "c4b07265083994499887c80538af9c44df399fabed603774b87db8f63e4cbaef"
