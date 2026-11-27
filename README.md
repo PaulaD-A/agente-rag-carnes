@@ -4,7 +4,7 @@ Proyecto final del curso de n8n. Sistema de automatización que recibe consultas
 
 > La empresa es ficticia, pero el caso está basado en una pyme real de compra y venta de carne por kilo en Santiago que opera con dos razones sociales (una factura la mercadería y otra el transporte) y hoy gestiona consultas y pedidos a mano.
 
-![Canvas del workflow](capturas/01-canvas-completo.png)
+![Canvas del workflow](capturas/02-workflow-completo-ejecucion-ok.jpg)
 
 ---
 
@@ -257,10 +257,25 @@ Responde únicamente con el JSON que pide el parser estructurado:
 
 Capturas de la ejecución exitosa:
 
-![Ejecución exitosa](capturas/02-ejecucion-exitosa.png)
-![Salida del agente](capturas/03-salida-agente.png)
-![Correo recibido por el cliente](capturas/04-correo-cliente.png)
-![Hoja de registro](capturas/05-registro-sheets.png)
+**Indexación de la base de conocimiento en Supabase**
+
+![Indexación en Supabase](capturas/01-indexacion-supabase-ok.jpg)
+
+**Entradas, validación y llamada al agente**
+
+![Entradas y validación](capturas/03-entradas-validacion-agente.jpg)
+
+**Agente, validación de la decisión y salidas**
+
+![Agente, validación y salidas](capturas/04-agente-validacion-salida.png)
+
+**Búsqueda RAG en Supabase**
+
+![Búsqueda RAG en Supabase](capturas/05-rag-busqueda-supabase.jpg)
+
+**Salida estructurada del agente**
+
+![Salida del agente](capturas/06-salida-agente.jpg)
 
 ---
 
